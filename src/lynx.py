@@ -38,7 +38,7 @@ from core.orchestrator import Orchestrator
 
 
 ctk.set_appearance_mode("dark")
-ctk.set_default_color_theme("blue")
+ctk.set_default_color_theme("green")
 
 orch = Orchestrator()
 
@@ -67,7 +67,7 @@ class LynxApp(ctk.CTk):
             header,
             text="Lynx",
             font=ctk.CTkFont(size=18, weight="bold"),
-            text_color="#05a4fa"
+            text_color="#21e066"
         )
         self.label_title.pack(side="left")
 
@@ -121,7 +121,7 @@ class LynxApp(ctk.CTk):
         import math, time
         t = time.time() * 2.5
         brightness = 0.6 + 0.4 * math.sin(t)
-        color = f'#{int(45 * brightness):02x}{int(183 * brightness):02x}{int(255 * brightness):02x}'
+        color = f'#{int(40 * brightness):02x}{int(200 * brightness):02x}{int(90 * brightness):02x}'
         self.icon_canvas.delete("all")
         self.icon_canvas.create_oval(2, 2, 12, 12, fill=color, outline="")
         self.after(100, self.animate_icon)
@@ -142,7 +142,7 @@ class LynxApp(ctk.CTk):
     # Feedback visual
     # ---------------------------
     def show_result_feedback(self, text):
-        self.result.configure(text=text, text_color="#2db7ff")
+        self.result.configure(text=text, text_color="#29c85a")
         self.after(100, lambda: self.result.configure(text_color="#d0d0d0"))
 
     # ---------------------------
@@ -319,7 +319,7 @@ class LynxApp(ctk.CTk):
             win,
             text="Adicionar novo comando",
             font=ctk.CTkFont(size=18, weight="bold"),
-            text_color="#05a4fa"
+            text_color="#21e066"
         )
         lbl.pack(pady=(12, 4))
 
