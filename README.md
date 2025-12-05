@@ -13,14 +13,15 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/License-0D1117?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/v/release/gabriel-araujo-git/lynx-assistant?style=flat&color=0D1117&label=Release&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/last-commit/gabriel-araujo-git/lynx-assistant?style=flat&color=0D1117&label=Last%20Commit&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/github/issues/gabriel-araujo-git/lynx-assistant?style=flat&color=0D1117&label=Issues&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/issues-pr/gabriel-araujo-git/lynx-assistant?style=flat&color=0D1117&label=Pull%20Requests&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/gabriel-araujo-git/lynx-assistant?style=flat&color=0D1117&label=Stars&logo=github&logoColor=FFD700" />
-  <img src="https://img.shields.io/github/downloads/gabriel-araujo-git/lynx-assistant/total?style=flat&color=0D1117&label=Downloads&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.10%2B-0D1117?style=flat&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/License-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/v/release/gabriel-araujo-git/lynx-assistant?style=for-the-badge&color=0D1117&label=RELEASE&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/last-commit/gabriel-araujo-git/lynx-assistant?style=for-the-badge&color=0D1117&label=LAST%20COMMIT&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/github/issues/gabriel-araujo-git/lynx-assistant?style=for-the-badge&color=0D1117&label=ISSUES&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/issues-pr/gabriel-araujo-git/lynx-assistant?style=for-the-badge&color=0D1117&label=PULL%20REQUESTS&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/stars/gabriel-araujo-git/lynx-assistant?style=for-the-badge&color=0D1117&label=STARS&logo=github&logoColor=FFD700" />
+<img src="https://img.shields.io/github/downloads/gabriel-araujo-git/lynx-assistant/total?style=for-the-badge&color=0D1117&label=DOWNLOADS&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3.10%2B-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+
 </div>
 
 
